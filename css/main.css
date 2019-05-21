@@ -2522,10 +2522,6 @@ html.no-csstransitions .home-content__main {
     color: #000000;
 }
 
-.project-link-video:hover {
-    color: #C89FA0;
-}
-
 /* on hover */
 
 .item-folio:hover .item-folio__thumb a::before {
