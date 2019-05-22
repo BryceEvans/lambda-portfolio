@@ -2472,7 +2472,8 @@ html.no-csstransitions .home-content__main {
 }
 
 .item-folio__cat {
-    color: rgba(255, 255, 255, 0.5);
+    /* color: rgba(255, 255, 255, 0.5); */
+    color: #FFFFFF;
     font-family: "montserrat-regular", sans-serif;
     font-size: 1.5rem;
     margin-bottom: 0;
@@ -2520,6 +2521,14 @@ html.no-csstransitions .home-content__main {
 .item-folio__project-link:hover, .item-folio__project-link:focus, .item-folio__project-link:active {
     background-color: #FFFFFF;
     color: #000000;
+}
+
+.project-link-video {
+    color: #6FA3AD;
+}
+
+.project-link-video:hover {
+    color: #FFFFFF;
 }
 
 /* on hover */
